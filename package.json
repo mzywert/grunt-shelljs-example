@@ -1,0 +1,21 @@
+{
+  "name": "grunt-shell-git",
+  "version": "1.0.0",
+  "description": "Example autocommiting changes in git with grunt-shell",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "autocommiting",
+    "git",
+    "grunt-shell"
+  ],
+  "author": "Marek Zywert",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-shell": "^3.0.1"
+  }
+}
